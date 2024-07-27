@@ -53,7 +53,4 @@
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-## 👁️ Number of visits:
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{ganiyevuz}/count.svg"/>
-</p>
+
