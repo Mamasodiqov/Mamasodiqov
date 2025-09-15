@@ -5,7 +5,6 @@
 <a href="https://wakatime.com/@mamasodiqov" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
 </p>
 
-- 🔭 I’m currently working on [Kotib AI](https://www.kotib.ai/)
 - 💬 Ask me about **Python, DRF, Django, PostgreSQL, Telegram Bot**
 - 📫 How to reach me [**islomiddinmamasodiqov @gmail.com**](mailto:islomiddinmamasodiqovb@gmail.com)
 
