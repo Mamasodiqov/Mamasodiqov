@@ -10,7 +10,6 @@
 - 📫 How to reach me [**islomiddinmamasodiqov @gmail.com**](mailto:islomiddinmamasodiqovb@gmail.com)
 
 
-![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://islomiddinmamasodiqov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/islomiddin)  [![Gmail](https://img.shields.io/badge/islomiddinmamasodiqov@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:islomiddinmamasodiqov@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Islomiddin_19)
