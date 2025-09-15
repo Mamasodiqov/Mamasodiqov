@@ -30,7 +30,6 @@
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
 
 ![](https://img.shields.io/badge/MacOS-information?color=343d46&style=flat&logo=apple&logoColor=white)
